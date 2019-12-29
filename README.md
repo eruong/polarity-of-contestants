@@ -1,4 +1,5 @@
 ## The Bachelor and The Bachelorette: Polarity of Contestants
+Collaborated with Sarah Bashir (Pomona College '20) and Lindsey Tam (Pomona College '20)
 
 ## Purpose: 
 To look at, through Twitter data, how people feel about the shows The Bachelor and The Bachelorette in 2018 and 2019. From this project, others can understand the varying sentiments on the program across the country. Additionally, some questions addressed include: Is public sentiment generally positive or negative? Is it the same across all seasons/all parts of the country?
