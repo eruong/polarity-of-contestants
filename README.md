@@ -9,7 +9,7 @@ We created several visualization tools using Tableau published on an online inte
 * Tweet Count over time </br>
 * Tweet volume by state </br>
 * Average tweet sentiment by state </br>
-The interactive component allows users to compare visualizations by season. </br>
+The interactive component allows users to compare visualizations by season and by episode. </br>
 </br>
 Additionally, this project was presented to an audience at The Claremont Colleges detailing the project process from idea formulation to data scraping to analysis (all of which are linked below).
 
